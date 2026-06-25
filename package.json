@@ -4,7 +4,7 @@
   "version": "0.0.0",
   "type": "module",
 
-  "homepage":"https://vijisuresh524-dotcom.github.io/Mywork",
+  "homepage":"https://github.com/vijisuresh524-dotcom/ProductListing",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
